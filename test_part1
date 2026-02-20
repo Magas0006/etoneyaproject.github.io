@@ -222,7 +222,6 @@ vless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.83.255:443?security=reality&
 vless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.0.147:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&sni=api-maps.yandex.ru#https://t.me/YoutubeUnBlockRu
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@95.163.210.202:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=a1b2c3d4&sni=api-maps.yandex.ru#https://t.me/YoutubeUnBlockRu
 vless://871fdc77-e6df-460d-ace3-b38ab82fb487@79.137.175.56:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934&sni=m.vk.ru#https://t.me/YoutubeUnBlockRu
-trojan://vpn@45.82.14.144:2025/?type=ws&host=dns.google.com#https://t.me/YoutubeUnBlockRu
 vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@212.113.119.31:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&sid=&sni=apple.com#https://t.me/YoutubeUnBlockRu
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001?#https://t.me/YoutubeUnBlockRu
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@kzcdn1.suio.me:443?type=tcp&security=tls&encryption=none&sni=kzcdn1.suio.me#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@37.139.34.145:443?security=reality&
 vless://cc1c1475-52a3-4442-98f0-3b9979d40b2b@pl.quattro-tech.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=pl.quattro-tech.ru&path=&host=#https://t.me/YoutubeUnBlockRu
 vless://d9ca856b-9702-417f-96c7-70e5edadede3@fin01-vlr01.tcp-reset-club.net:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&path=&host=&spx=/#https://t.me/YoutubeUnBlockRu
 vless://e18a8a3d-8cff-412b-af35-4f6b0497c695@nl4.srv.cdnopl.link:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ign.dev&path=&host=#https://t.me/YoutubeUnBlockRu
+vless://e8accc46-c511-42fb-919b-9283799a88a1@176.123.164.110:51102?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5&sni=m.vk.ru#https://t.me/YoutubeUnBlockRu
