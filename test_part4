@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@77.239.125.99:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=sun6-21.userapi.com#https://t.me/YoutubeUnBlockRu
 vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@nl3.ultima.foundation:22231?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=&sni=nl.ultima.foundation&path=&host=#https://t.me/YoutubeUnBlockRu
 vless://ba230ae8-6671-4001-8494-5001945b5057@usa.frdmhere.com:443?type=xhttp&security=reality&host=strm.yandex.ru&mode=auto&extra={"xmux"#https://t.me/YoutubeUnBlockRu
 vless://57aa311c-c21d-40ad-91c3-7a6b7cd36ea2@zorropizza.top:8443?type=xhttp&security=reality&path=/api/v2/updates&host=&mode=auto&extra={"xmux"#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://45fc8a3e-12c4-4bea-8d86-1137a5109ca2@89.208.86.133:443?type=tcp&security
 vless://56217916-611b-430c-86ef-4c1926a84469@us1.fixpr.top:443?type=grpc&security=tls&fp=chrome&sni=us1.fixpr.top&mode=gun&alpn=h3,h2,http/1.1&serviceName=grpc&authority=#https://t.me/YoutubeUnBlockRu
 vless://f625ba3b-93dc-4a87-9e69-f39a2f16ff98@217.16.27.217:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&sni=m.ok.com#https://t.me/YoutubeUnBlockRu
 vless://16c9128f-5f5c-4a2f-987c-74b0170a983e@lt.quattro-tech.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=lt.quattro-tech.ru&path=&host=#https://t.me/YoutubeUnBlockRu
+vless://8077799e-caa6-001b-87fa-bfb04f8f9988@cloud.quattro-tech.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=cloud.quattro-tech.ru&path=&host=#https://t.me/YoutubeUnBlockRu
