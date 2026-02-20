@@ -175,9 +175,7 @@ vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?type=grpc&securi
 vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@dostupbypass4.suio.me:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=bbea2805&sni=api-maps.yandex.ru#https://t.me/YoutubeUnBlockRu
 vless://2ffa42ef-2257-4065-9777-50cf73f364f6@37.139.42.234:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=DRqtzl85bgUigiMOElxQl5vgHEQHyaEYqQXmHOe_hhA&sid=6670&sni=ads.x5.ru&spx=/#https://t.me/YoutubeUnBlockRu
 vless://1c0d13b8-5924-4960-8022-66e0d5c888ab@176.123.160.4:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=f4arBBBoT4Lb8CmgB7cl1VTF7rh0pfi2YwUDQFs5jRI&sid=67f1853b&sni=de30.strelkavpn.com&spx=/#https://t.me/YoutubeUnBlockRu
-trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&fp=chrome&type=tcp&#https://t.me/YoutubeUnBlockRu
 trojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network&type=ws&host=free-de-3.undef.network&path=/f2fc2a1f#https://t.me/YoutubeUnBlockRu
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&#https://t.me/YoutubeUnBlockRu
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#https://t.me/YoutubeUnBlockRu
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.141.69:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=ads.x5.ru#https://t.me/YoutubeUnBlockRu
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@dostupbypass4.suio.me:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=a1b2c3d4&sni=api-maps.yandex.ru#https://t.me/YoutubeUnBlockRu
@@ -220,7 +218,6 @@ trojan://vpn@45.82.14.144:2025/?type=ws&host=dns.google.com#https://t.me/Youtube
 vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@212.113.119.31:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&sid=&sni=apple.com#https://t.me/YoutubeUnBlockRu
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001?#https://t.me/YoutubeUnBlockRu
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@kzcdn1.suio.me:443?type=tcp&security=tls&encryption=none&sni=kzcdn1.suio.me#https://t.me/YoutubeUnBlockRu
-trojan://pUF+zmIw0QuRESBPLofx7eOj6Xc49@38.54.82.205:27877/?type=tcp&security=tls&sni=www.metaphysicalmagnet.click#https://t.me/YoutubeUnBlockRu
 trojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443/?type=ws&host=free-de-3.undef.network&path=/f2fc2a1f&security=tls&sni=free-de-3.undef.network#https://t.me/YoutubeUnBlockRu
 vless://2cf4eee2-6067-4aba-a368-5831f569c105@91.193.18.146:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=uKLvvAtmm7sEZDLtXoC9ogrSH_SrmfRuiZbHnen9nGs&sid=&sni=api-maps.yandex.ru&mode=packet-up#https://t.me/YoutubeUnBlockRu
 vless://e1ed1d6f-11ed-4a9e-910c-c13b56573949@176.108.241.183:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hz4RUTTL7KkdeGm884ZhRRYIXRulXCGwW1Jh1aQJmWg&sid=a35f12908735&sni=where.strelkavpn.ru#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2496,6 @@ vless://dcacfd00-d432-4d53-a289-67fecf49d792@46.243.232.5:8081?type=tcp&security
 vless://65704afe-e26a-4266-9ff3-4d09c0f04c14@84.201.166.48:3443?security=reality&encryption=none&fp=qq&pbk=pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8&sid=f3e8b2b1&sni=max.ru#https://t.me/YoutubeUnBlockRu
 vless://adc7b34f-ee40-4d76-ac0b-74cafe53e4c1@144.31.100.120:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3&sni=google.com#https://t.me/YoutubeUnBlockRu
 vless://a505d8dc-2b88-49bf-8d07-58c4ba453325@rus.fasti.win:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=rus.fasti.win#https://t.me/YoutubeUnBlockRu
+vless://6416708c-eaa5-4ec5-b652-a2db2feab875@81.200.151.14:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&sni=m.vk.com#https://t.me/YoutubeUnBlockRu
+vless://64b5d863-81d6-48ea-9222-82030616fa63@game2.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#https://t.me/YoutubeUnBlockRu
+vless://49aabf68-e986-4722-8fd1-1702ce996bb6@217.13.104.115:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HmnZvWf1xDzvps8H-juYYtHnWPZksvaUp6cMYV7TfSk&sid=a20d3ed244c76426&sni=sun6-22.userapi.com#https://t.me/YoutubeUnBlockRu
