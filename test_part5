@@ -1,6 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://7a7aa0d2-5311-45fc-80b0-9f46f3546793@144.31.139.184:443?type=grpc&security=reality&fp=&pbk=YD5WWrYv-qy2P6Hu9dtImndERQBhf9uC928NigPOIjg&sid=&sni=stats.vk-portal.net&mode=gun&serviceName=&authority=#https://t.me/YoutubeUnBlockRu
-vless://a8214f18-5d5b-409f-a98a-458a85bce22b@91.224.74.147:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&sni=deepl.com#https://t.me/YoutubeUnBlockRu
 vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@217.16.27.217:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&sni=api-maps.yandex.ru#https://t.me/YoutubeUnBlockRu
 vless://189484df-21c2-4fec-8e0c-e77cf455e0d3@31.57.47.66:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sid=&sni=www.microsoft.com&path=&host=#https://t.me/YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbzJiRGp6WXVLY1Eza2Y5QnR3eHgw@45.43.137.202:3908?#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2497,5 @@ vless://0c62469a-009f-4050-bbc6-2be5d74e64f7@109.120.180.52:443?type=tcp&securit
 vless://ffd51a4b-f62d-44b2-b4be-1ea346ff968f@fi.aliusvpn.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b&sni=aliusfilms.ru&path=&host=#https://t.me/YoutubeUnBlockRu
 vless://6fa4c714-14d4-408b-badd-50f7a23801cf@lv0.nerpvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1abac&sni=store.steampowered.com#https://t.me/YoutubeUnBlockRu
 vless://ea912a66-fb6a-422a-8422-65de76129245@82.21.117.172:47012?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE&sid=6c6dde00d817b867&sni=sun6-21.userapi.com&path=&host=#https://t.me/YoutubeUnBlockRu
+trojan://0rF73PXdUS8R72jb9FMGdKrBnWtD92Ac@veraams2.uspn.io:2087?security=reality&type=tcp&path=&host=&sni=api-maps.yandex.ru&fp=qq&pbk=D6Rp5wFAzRZ-ZHOcKdaTK7aCfsBBu1jb3_dtvekt2W0&sid=6ba85179e30d4fc2#https://t.me/YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.179:8080?#https://t.me/YoutubeUnBlockRu
