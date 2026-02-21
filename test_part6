@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@yandex-2.ultima.foundation:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sni=ads.x5.ru#https://t.me/YoutubeUnBlockRu
 vless://e148c083-2117-49d2-9ae8-8c81770c383b@212.233.97.7:47021?type=tcp&security=reality&encryption=none&fp=chrome&pbk=XK84BZHm8wGcPS24VRXFUv2PC399k6KejjV0GO_J4yY&sni=eh.vk.com#https://t.me/YoutubeUnBlockRu
 vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@103.35.188.8:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&sid=fb1a8818b2ec7f2e&sni=tradingview.com#https://t.me/YoutubeUnBlockRu
 vless://82df7a06-886d-4ff7-97d7-da3f84f3c5da@serv27.strettenvpn.com:443?type=tcp&security=&path=&host=#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@lv5.ultima.foundation:22231?type=tc
 vless://56e1592c-cae7-4ff1-b9d9-07ee111968b5@176.123.164.110:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934&sni=m.vk.com#https://t.me/YoutubeUnBlockRu
 vless://cc1c1475-52a3-0007-98f0-3b9979d40b2b@37.139.32.137:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=ads.x5.ru#https://t.me/YoutubeUnBlockRu
 vless://895f94cb-5567-4731-bc2c-2f89a54bafe4@ru61.tcpnet.fun:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=4NjqiB_FliKff9bP2ASI3WWuhfuyviPeKoz1DyZJQDE&sid=574aa52c&sni=www.vk.com&serviceName=grpc#https://t.me/YoutubeUnBlockRu
+vless://781a96ac-8d3a-489f-85e1-572dac346579@ule1.portal-guard.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&sni=ule1.portal-guard.com&host=h64t589dbn.portal-guard.com#https://t.me/YoutubeUnBlockRu
