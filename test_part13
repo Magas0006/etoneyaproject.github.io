@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://f8e29d54-7745-46c2-9358-868994c79aca@osn.takovpn.ru:443?security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=352e3a94&sni=google.com#https://t.me/YoutubeUnBlockRu
 vless://5b50179e-d564-484b-9e3a-a10c6331d04a@osn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=47e4c3980f872e68&sni=google.com&spx=/gNhuQ1vQv3B1tjl#https://t.me/YoutubeUnBlockRu
 vless://d1546b67-0d90-4763-b946-8766561798ae@37.139.34.19:5443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=yADxZWuFuUHuS4Ie9Y0ItVjSeqBeyDEth-fXRBM42BU&sid=4c440e074bca5c84&sni=max.ru&path=&host=#https://t.me/YoutubeUnBlockRu
 vless://fa35936b-c47f-44e0-adb6-0a136e2e3317@51.250.117.173:5443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=Z1PBEkRcz_GSf4D3452Y_PdZeEVr0XZ3pGZkMBleI3U&sid=f16927958981f934&sni=yandex.ru&path=&host=#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://23082165-6a60-40c9-bd2b-1e72d11e8931@109.120.190.40:8443?type=xhttp&secu
 vless://d3b60ce3-76b1-4e75-8b1c-1eca4f76c22e@194.26.141.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&sid=d4d39c5f8688dfe2&sni=max.ru&path=&host=#https://t.me/YoutubeUnBlockRu
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443?#https://t.me/YoutubeUnBlockRu
 vless://1de717eb-34ed-4592-b3e7-a5a067c85cd2@83.166.238.101:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=bKuUJhfy0OTxwLC92MOw8RDHN6cqHX40h-WoDjlCrSA&sid=6ee9370367ca16f2&sni=max.ru&path=&host=#https://t.me/YoutubeUnBlockRu
+vless://82ba8117-3a59-400a-a7a5-3f610a1cb273@45.129.199.174:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&sid=d4d39c5f8688dfe2&sni=max.ru&path=&host=#https://t.me/YoutubeUnBlockRu
