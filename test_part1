@@ -2017,7 +2017,6 @@ trojan://6a2r4j8Rd9kb5Je7@91.84.97.60:2097?security=tls&type=ws&path=/trojan#htt
 vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@5.188.142.120:1488?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#https://t.me/YoutubeUnBlockRu
 vless://f74d98a4-9198-4f78-b921-47d4f4950953@de3.teleport.lat:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=de3.teleport.lat#https://t.me/YoutubeUnBlockRu
 vless://f3b00410-62ed-4d4c-a345-07f4dc218e4d@89.208.85.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=1a52078cc8&sni=music.yandex.ru#https://t.me/YoutubeUnBlockRu
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp#https://t.me/YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313?#https://t.me/YoutubeUnBlockRu
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?#https://t.me/YoutubeUnBlockRu
 vless://55d5c995-b3c7-4055-98d2-af263d7ba8f1@78.159.247.229:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=jgFDtr4s5Exp90r1O4OHFCnPcRgcMHBqn7-S_jGNvXk&sid=090c8dc552c6589a&sni=max.ru#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://2dd1a15d-1426-413a-a3b8-a645788bc844@51.250.21.140:8443?type=grpc&securi
 vless://2dd1a15d-1426-413a-a3b8-a645788bc844@51.250.21.140:8090?type=xhttp&security=reality&encryption=none&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0&sni=sso.passport.yandex.ru#https://t.me/YoutubeUnBlockRu
 vless://2dd1a15d-1426-413a-a3b8-a645788bc844@37.18.14.184:7443?type=xhttp&security=tls&encryption=none&fp=qq&sni=chat.speedload.ru&alpn=h2,http/1.1#https://t.me/YoutubeUnBlockRu
 vless://2dd1a15d-1426-413a-a3b8-a645788bc844@37.18.14.184:8090?type=ws&security=tls&encryption=none&fp=qq&sni=chat.speedload.ru&path=/ws&host=chat.speedload.ru&alpn=h2,http/1.1#https://t.me/YoutubeUnBlockRu
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@51.250.39.121:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&sni=sun6-22.userapi.com#https://t.me/YoutubeUnBlockRu
