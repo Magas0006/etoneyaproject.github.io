@@ -189,6 +189,16 @@ vless://f171bec7-9793-4a58-8402-d566b3392b93@89.208.222.100:4443?type=tcp&securi
 vless://38d38204-eaa9-4885-a970-f2498809c313@89.208.222.100:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2Y6cof3UOWqpgqRdnhFDq7kJoCAnKprZEYxo00nlXl8&sid=d364d634a302cd&sni=max.ru#https://t.me/YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeDN2dTlEeEJaWWZnSzNnbWM0dnln@212.100.171.232:8443?#https://t.me/YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeDN2dTlEeEJaWWZnSzNnbWM0dnln@212.100.171.232:8443?#https://t.me/YoutubeUnBlockRu
+vless://55654753-d986-4be2-9d6c-ac333ba320fb@3.160.154.84:443?type=ws&security=tls&encryption=none&fp=chrome&sni=127.0.0.1&host=dcvuyo5b1roiq.cloudfront.net&alpn=http/1.1#https://t.me/YoutubeUnBlockRu
+vless://55654753-d986-4be2-9d6c-ac333ba320fb@51.250.102.191:443?type=ws&security=tls&encryption=none&fp=chrome&sni=russ.hsshsjsjsospsppsa.online&host=russ.hsshsjsjsospsppsa.online&alpn=http/1.1#https://t.me/YoutubeUnBlockRu
+vless://55654753-d986-4be2-9d6c-ac333ba320fb@3.160.154.84:443?type=ws&security=tls&encryption=none&fp=chrome&sni=127.0.0.1&host=donzuk723we1l.cloudfront.net&alpn=http/1.1#https://t.me/YoutubeUnBlockRu
+vless://55654753-d986-4be2-9d6c-ac333ba320fb@3.160.154.84:443?type=ws&security=tls&encryption=none&fp=chrome&sni=127.0.0.1&host=d1lwbjetbo2jbr.cloudfront.net&alpn=http/1.1#https://t.me/YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#https://t.me/YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.205:2053?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#https://t.me/YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.94.129:2083?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#https://t.me/YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.251.134.94:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#https://t.me/YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@65.108.245.196:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#https://t.me/YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.198.152.85:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#https://t.me/YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfekxkRUN1Y2dqZXlEdXYyaC1falJUMEtKc2hfTVBVbg==@212.233.78.21:1234?#https://t.me/YoutubeUnBlockRu
 trojan://7ona_dqeJq_6FPMsMY7E1aoNPRSVUegY@verahk1.uspn.io:2087?security=reality&type=tcp&path=&host=&sni=api-maps.yandex.ru&fp=random&pbk=D6Rp5wFAzRZ-ZHOcKdaTK7aCfsBBu1jb3_dtvekt2W0&sid=#https://t.me/YoutubeUnBlockRu
 vless://18cba63d-7441-4ee3-bb18-72a0fc3f772e@212.233.78.21:2086?type=xhttp&security=&path=/xhttp-de&host=&mode=auto#https://t.me/YoutubeUnBlockRu
