@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://00dd814b-8e7c-401a-a06b-a3b4aaf78b16@de.vpnone.ru:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://699fca60-533f-4436-38db-7881c2150fe2@nekocloud.tencentapp.cn:443?security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.9:80?type=ws&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://Parsashonam-286@185.146.173.39:8880?type=httpupgrade&path=🔒#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?type=ws&path=�
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483?type=grpc&security=none&encryption=none&mode=gun&serviceName=&authority=#https://t.me/YoutubeUnBlockRu
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68617@Speedtest.net:80?path=🔒#https://t.me/YoutubeUnBlockRu
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ProxyVPN11.afrcloud22.mmv.kr&path=/43.218.77.16=1443&host=afrcloud22.mmv.kr#https://t.me/YoutubeUnBlockRu
+vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.78.206:2096?type=ws&encryption=none&path=🔒&host=freedom.panotosu.store#https://t.me/YoutubeUnBlockRu
