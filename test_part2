@@ -602,7 +602,6 @@ vless://5092bd94-6af6-4e74-bea1-5a9179a31611@mtn.venzo.com.tr:80?type=httpupgrad
 vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?type=raw&security=reality&encryption=none&fp=firefox&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&sid=1a24af87&sni=yahoo.com#https://t.me/YoutubeUnBlockRu
 vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1&sni=google.com#https://t.me/YoutubeUnBlockRu
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?type=ws&security=tls&encryption=none&fp=chrome&sni=DiprOX.pages.DEV&path=/Tel-%40V2rayAlpha&host=DiprOX.pages.DEV#https://t.me/YoutubeUnBlockRu
-vless://fed05faf-401f-3412-b658-5c96f3095dd0@91.132.51.160:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ&sid=e164b85aec8a7422&sni=www.refersion.com#https://t.me/YoutubeUnBlockRu
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@31.43.179.108:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=data-md125.netsnap.ir&path=/R8I9Yqu0DxpQB2NKCxLA&host=data-md125.netsnap.ir&alpn=h2,http/1.1#https://t.me/YoutubeUnBlockRu
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?type=ws&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880?type=ws&encryption=none&path=🔒&host=reedfree8mahsang2.redorg.ir#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@45.144.214.133:2876?type=tcp&securi
 vless://2d2a844c-6cf9-48e0-8fbf-6261696f62d1@45.82.161.120:19011?type=tcp&security=none&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://cc29b4c8-f8c5-4d1b-b553-798fbe60e937@151.101.130.219:80?type=ws&path=🔒&host=alf17.ir#https://t.me/YoutubeUnBlockRu
 vless://fc5e2e68-b416-49bb-a689-61032faf7fcf@172.64.152.23:8443?encryption=none&%3Bsecurity=tls&%3Bsni=🔒#https://t.me/YoutubeUnBlockRu
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.53.131:80?type=ws&security=none&host=us3.rtacg.com#https://t.me/YoutubeUnBlockRu
