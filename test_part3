@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.6.205:80?type=ws&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/#https://t.me/YoutubeUnBlockRu
 vless://a1923428-524e-46c3-936d-16cda1656763@afrcloud22.mmv.kr:443?type=ws&security=tls&encryption=none&path=🔒&host=afrcloud22.mmv.kr#https://t.me/YoutubeUnBlockRu
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.232:443?security=tls&sni=🔒#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=🔒#https
 vless://dad1b143-f782-4a70-a896-905da94fee7f@91.244.70.205:443?type=ws&security=none&encryption=none&path=/#https://t.me/YoutubeUnBlockRu
 vless://00dd814b-8e7c-401a-a06b-a3b4aaf78b16@de.vpnone.ru:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://699fca60-533f-4436-38db-7881c2150fe2@nekocloud.tencentapp.cn:443?security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.9:80?type=ws&encryption=none#https://t.me/YoutubeUnBlockRu
