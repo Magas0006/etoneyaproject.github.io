@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://3c95c3eb-522a-46a0-a49a-14e10c03fbf8@172.67.180.15:443?path=/TelegramPROXY_MTM/#https://t.me/YoutubeUnBlockRu
 vless://b1c2d3e4-f5a6-4789-9abc-0def12345678@18.197.45.23:443?type=tcp&security=&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.228.37:80?type=ws&encryption=none&path=🔒&host=us1.rtacg.com#https://t.me/YoutubeUnBlockRu
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v01.vxlimir.com:1370?type=tcp&security=reality&path=🔒#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://18cba63d-7441-4ee3-bb18-72a0fc3f772e@212.233.78.21:2098?type=xhttp&secur
 vless://e73c97ad-af2e-49e9-8321-5e217ca57124@172.67.132.114:443?type=ws&encryption=none&path=🔒&host=mAhSA.965871a.STORe#https://t.me/YoutubeUnBlockRu
 vless://Telegram--SRCVPN--@91.107.187.212:3090?type=grpc&security=reality&encryption=none&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sni=🔒&mode=gun&spx=/&authority=V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS#https://t.me/YoutubeUnBlockRu
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&%3Bsecurity=tls&%3Bencryption=none&%3Btype=grpc&%3Bsni=🔒#https://t.me/YoutubeUnBlockRu
+vless://aef9ab0f-fb0e-40ce-bb9b-beacaf6a2db6@172.67.169.146:8443?type=ws&security=tls&sni=🔒#https://t.me/YoutubeUnBlockRu
