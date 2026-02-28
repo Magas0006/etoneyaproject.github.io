@@ -375,7 +375,6 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.80.244.179:12333?security=tls&e
 vless://5b64efe0-6a3d-4301-8656-0d4ed4f3769f@zula.ir:8443?path=🔒#https://t.me/YoutubeUnBlockRu
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.16.53.11:80?path=🔒#https://t.me/YoutubeUnBlockRu
 vless://84fc796b-6ac3-4465-98cf-2ae6fd58b4a7@188.114.99.99:2053?type=grpc&serviceName=https#https://t.me/YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.103:8080?#https://t.me/YoutubeUnBlockRu
 vless://f23b2b7e-c876-4f7f-bca5-20a4f57c3864@78.159.110.55:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://a60463c9-1559-45db-9a1d-ca315bb869d7@re.iraniandesinger.com:3333?type=tcp&encryption=none&host=meet.google.com&headerType=http#https://t.me/YoutubeUnBlockRu
 vless://e24fcc0e-b819-4df0-bb64-b997660e208f@212.233.76.155:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jyfiBUYiL1e88ru9_K3hrieKZVwiI6CkU5mhnH36qm8&sid=afee1a48fd42a87b&sni=max.ru#https://t.me/YoutubeUnBlockRu
@@ -555,7 +554,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.225.63:2053?type=ws&security=
 vless://c4ccdba8-dfae-4354-a78c-3d5f113f15d7@104.19.49.15:443?type=ws&encryption=none&path=🔒&host=violation-em-pulling-referenced.trycloudflare.com#https://t.me/YoutubeUnBlockRu
 vless://17ef9d75-aaaa-4ac9-9044-6cdc2c462a1a@ns2.a58.xyz:443?type=ws&security=tls&encryption=none&fp=chrome&sni=app-shield.a58.xyz&path=/news&host=app-shield.a58.xyz#https://t.me/YoutubeUnBlockRu
 vless://630349b3-5579-4701-8dc2-c95b5af2ba0a@212.233.78.21:2089?type=xhttp&security=&path=/xhttp-usa&host=&mode=auto&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A60%2C%22scMaxEachPostBytes%22%3A%222000000-3000000%22%2C%22scMinPostsIntervalMs%22%3A%2210-50%22%7D#https://t.me/YoutubeUnBlockRu
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@mjki.1nn.ccwu.cc:443?type=ws&security=tls&encryption=none&sni=mjki.1nn.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO&host=mjki.1nn.ccwu.cc#https://t.me/YoutubeUnBlockRu
 vless://0d0f0fea-64be-46fb-bb98-f8d5f5740752@schqqn0yhrrs34qn3a2k4i6g9xap1tph.pages.dev:443?security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?type=tcp&security=none&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://531669f8-4141-4ca1-e7d5-d6a6fff35ff4@www.speedtest.net:2082?path=🔒#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2497,5 @@ vless://7be30ab7-2077-4115-f6cb-125226afd3c9@www.speedtest.net:8880?path=🔒#ht
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.18.250.247:8880?type=ws&security=none&encryption=none&sni=ex.sue.x10.mx&path=/Telegram🇨🇳&host=ex.sue.x10.mx#https://t.me/YoutubeUnBlockRu
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.252.217:443?type=ws&encryption=none&path=🔒&host=zyzzzoao.putata.eu.org#https://t.me/YoutubeUnBlockRu
 vless://d8038434-51de-440b-9521-d114503e57af@104.18.37.146:8443?type=ws&encryption=none&path=🔒&host=bia-daily-configs.pages.dev#https://t.me/YoutubeUnBlockRu
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.249.234:22224?type=ws&security=tls&sni=trojan.burgerip.co.uk&path=/telegram-channel-vlessconfig#https://t.me/YoutubeUnBlockRu
+vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@pishgam.sdcards.ir:80?path=🔒#https://t.me/YoutubeUnBlockRu
