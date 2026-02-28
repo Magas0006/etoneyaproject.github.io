@@ -1,7 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://cb2fe166-ac66-404d-aa4e-8d16fb2ef412@185.214.101.118:20435?type=grpc&security=reality&encryption=none&fp=chrome&pbk=uob8UvGgvG-F3iz0PuOpam6nSh6789W7BQwtdbAS3S0&sni=🔒&mode=gun&spx=/#https://t.me/YoutubeUnBlockRu
-vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#https://t.me/YoutubeUnBlockRu
-vless://881bc54d-4a96-46d0-814c-c261718293f5@0Can.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.#https://t.me/YoutubeUnBlockRu
 vless://7258cd00-9eb5-40b1-8c78-ecdfaeff3e30@78.47.65.38:12365?type=xhttp&path=🔒#https://t.me/YoutubeUnBlockRu
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@81.200.151.139:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=UZ2NoBGMbrUpBav3lcqN-E43SxZTIvkjJuHNy-Yk_go&sid=d26763126a7cf4fe&sni=eh1.vk.com#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2496,6 @@ vless://f5bb39a2-c997-4381-baf0-307ac3bd3464@all.mdvpnsec.cfd:443?type=ws&securi
 vless://6978644c-611e-47c9-be8c-2b28ebf62f24@test96.alicesss.repl.co:443?security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://3775d133-dc3a-4a02-8095-5c70c328ae9f@141.101.120.141:80?type=ws&host=HUge-ActOR48bf36fHJV.ecOTouriSS.co.uK#https://t.me/YoutubeUnBlockRu
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@162.159.36.20:2052?type=ws&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&ed=2048&eh=Sec-WebSocket-Protocol#https://t.me/YoutubeUnBlockRu
+vless://66ac4645-d818-466b-8717-3bdd6cb6923c@ip4.neoservers.ir:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=🔒&host=WQLn6jpEZ9ZUkE6ShnzvkBazVVo74J4Bar267N5O.ViPClUbIrAn.Ir.&alpn=h3,h2#https://t.me/YoutubeUnBlockRu
+vless://39a50d1e-e51a-4389-a1cc-e1768360a391@173.245.59.132:8080?path=🔒#https://t.me/YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.19.44.122:2053?type=ws&encryption=none&host=sni.111000.indevs.in#https://t.me/YoutubeUnBlockRu
