@@ -314,7 +314,6 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@172.233.201.122:34045?type=tcp&encr
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.214.142:443?type=ws&encryption=none&path=🔒&host=gtest-638114869974.europe-west4.run.app#https://t.me/YoutubeUnBlockRu
 vless://61066a16-78fc-4446-8013-6646bc3f27ba@www.speedtest.net:8443?path=🔒#https://t.me/YoutubeUnBlockRu
 vless://909065ef-60c5-4e26-9907-c3912c5f98aa@chatgpt.com:443?path=🔒#https://t.me/YoutubeUnBlockRu
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.34.160.97:2053?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#https://t.me/YoutubeUnBlockRu
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nhj.1jj.ccwu.cc:443?type=ws&security=tls&fp=chrome&sni=nhj.1jj.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO&host=nhj.1jj.ccwu.cc#https://t.me/YoutubeUnBlockRu
 vless://1b5bf807-da8b-4c30-a974-7c729a04d0df@165.140.119.117:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ign.dev#https://t.me/YoutubeUnBlockRu
 vless://d5880da4-750c-4bdf-807f-0f6d5888f0f3@45.130.125.160:2095?type=httpupgrade&security=none&encryption=none&path=/%3Fed%3D2096&host=aza002.vaslbash.site#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@88.216.69.251:8880?type=ws&encrypti
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:8443?type=ws&security=tls&encryption=none&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz#https://t.me/YoutubeUnBlockRu
 vless://de7e69b8-c4e7-4461-f061-12f42115b51b@104.16.1.106:80?type=ws&path=🔒#https://t.me/YoutubeUnBlockRu
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@id-1.vless.co:80?type=ws&security=none&encryption=none&path=🔒&host=www.wasa.com#https://t.me/YoutubeUnBlockRu
+vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@3.70.241.4:443?type=tcp&security=&encryption=none#https://t.me/YoutubeUnBlockRu
