@@ -1,12 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://01638edd-ddd2-07d0-b437-48761495d07e@212.193.157.118:443?type=ws&security=tls&encryption=none&fp=chrome&sni=lk-cdn.deploy-assure.ru&path=//&host=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#https://t.me/YoutubeUnBlockRu
-vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?type=httpupgrade&encryption=none&path=🔒&host=rahgozar.italiantourism.net#https://t.me/YoutubeUnBlockRu
-vless://cc874b0d-1597-4e65-b79c-a4227acede96@45.82.161.120:19011?type=tcp&security=none&encryption=none#https://t.me/YoutubeUnBlockRu
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.150:2086?type=ws&encryption=none&path=🔒&host=5-55sfjslf.ifenxiang.cfd#https://t.me/YoutubeUnBlockRu
-vless://f3bf8732-4040-4132-b68a-2c137b75bbf3@v315470.hosted-by-vdsina.com:25998?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Da5do6b68bgCVmWE66sKmhtN-lATbk-wEEww9jkweHM&sni=🔒&spx=/#https://t.me/YoutubeUnBlockRu
-vless://f23b2b7e-c876-4f7f-bca5-20a4f57c3864@185.241.195.90:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=us.reality.tv123.ru#https://t.me/YoutubeUnBlockRu
-vless://0ad27946-8cfb-496d-bd13-5864cbf18aff@208.69.78.161:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&sni=tradingview.com#https://t.me/YoutubeUnBlockRu
-vless://c3b4b127-a7d9-4ded-b221-0023ccbe3f69@78.39.57.73:443?type=tcp&security=none&encryption=none&host=varzesh3.com&headerType=http#https://t.me/YoutubeUnBlockRu
 vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@uk.aparat-movies-download.ir:42536?type=tcp&security=none&encryption=none&host=excoino.com&headerType=http#https://t.me/YoutubeUnBlockRu
 vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=🔒#https://t.me/YoutubeUnBlockRu
 vless://Telegram-TokaVpn-@91.107.129.66:2040?type=grpc&serviceName=&authority=-#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2491,11 @@ vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?type=ws&security=n
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.238:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.jpmj.dev&host=sni.jpmj.dev#https://t.me/YoutubeUnBlockRu
 vless://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?type=tcp&security=reality&encryption=none&fp=chrome&pbk=-zsPOGrZY1Dlb6eypa5V_OPaLBpT66FX3cSo0mNX8SI&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@5.254.85.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒#https://t.me/YoutubeUnBlockRu
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096?path=🔒#https://t.me/YoutubeUnBlockRu
+vless://f8c11d32-5ef7-4a3d-a37d-896bb43f676d@bbh.payesh-hospital.ir:443?security=tls&sni=🔒#https://t.me/YoutubeUnBlockRu
+vless://075fa06b-2ad2-4466-8a5d-8aeb255ce509@www.speedtest.net:8880?type=httpupgrade&path=🔒#https://t.me/YoutubeUnBlockRu
+vless://4fba7439-6209-4e62-b8df-dd2bdc222ef5@140.248.141.123:443?security=tls&encryption=none&mode=auto&extra={&alpn=h2,http/1.1#https://t.me/YoutubeUnBlockRu
+vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&sni=🔒&host=TELEGRAM#https://t.me/YoutubeUnBlockRu
+vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@208.103.161.110:443?type=ws&security=tls&encryption=none&fp=chrome&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg#https://t.me/YoutubeUnBlockRu
+vless://1988a5e0-a4b0-4d80-a6f2-d2357db53f48@www.csgo.com:2095?security=none&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.99:443?security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
