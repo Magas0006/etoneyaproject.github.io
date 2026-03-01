@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443?type=ws&encryption=none&path=🔒&host=rayan-d08.leila.dpdns.org#https://t.me/YoutubeUnBlockRu
 vless://d643b9ca-57b7-4cd5-84b8-a77f26b6346e@162.159.1.33:443?security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://d7b32d7d-b7cf-4cc2-86e6-24cc0964ae5d@151.101.64.155:80?type=ws&security=none&path=🔒&host=Siperspdservicefree.com#https://t.me/YoutubeUnBlockRu
 vless://3351e14f-77f7-c00b-aeac-efa3d93dce1f@51.38.91.221:443?type=tcp&security=none&encryption=none#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://655912cb-09f4-4f36-9492-6a1b1dc6d832@193.37.37.183:8035?type=tcp&securit
 vless://60baf5e8-459f-4e30-9cb8-cda11a6d1e67@188.114.98.0:2082?type=httpupgrade&encryption=none&path=/V2RayyNGvpn&host=begaman.esportplusnews.top.#https://t.me/YoutubeUnBlockRu
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?type=ws&encryption=none&path=🔒#https://t.me/YoutubeUnBlockRu
 vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@151.101.97.163:443?type=xhttp&security=tls&encryption=none&sni=mopd.global.ssl.fastly.net&host=mopd.global.ssl.fastly.net&mode=auto#https://t.me/YoutubeUnBlockRu
+vless://9a599b2e-5455-44d5-9a72-5c76f28e93e3@51.250.87.167:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&sni=api-maps.yandex.ru#https://t.me/YoutubeUnBlockRu
