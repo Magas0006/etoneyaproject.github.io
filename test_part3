@@ -442,7 +442,6 @@ vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?type=tcp&encryp
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.7.53:2053?path=🔒#https://t.me/YoutubeUnBlockRu
 vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80?type=ws&security=none&encryption=none&host=little-haze-1600-ppal03.gabonim122.workers.dev#https://t.me/YoutubeUnBlockRu
 vless://d14d29dd-826f-4c0d-ad22-5091360f4863@Zula.ir:443?path=🔒&mode=auto#https://t.me/YoutubeUnBlockRu
-vless://ccdf58c8-b9d4-4bc7-a55e-e6965cc71fc7@95.163.210.159:8080?type=tcp&security=reality&encryption=none&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&sid=&sni=max.ru#https://t.me/YoutubeUnBlockRu
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?security=none&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?type=tcp&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://8b70357d-b654-4a29-85de-e5fef1afefbd@46.226.162.241:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&sni=uk.connectv.net#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://182a355e-8ffc-4735-84b6-afbd83c98ff2@37.139.33.15:443?type=tcp&security=
 vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.65.90.52:2096?type=ws&encryption=none&path=🔒&host=hp-dubai.pages.dev#https://t.me/YoutubeUnBlockRu
 vless://90d193e6-4a18-409f-9828-b2b35352e032@178.72.145.62:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tSD-S0FwV18EvxOTY85OzFuy7u1sn2VQR-GsvzVx_gw&sid=256752789e9f6068&sni=www.sberbank.ru#https://t.me/YoutubeUnBlockRu
 vless://04cf10a3-2268-4c8c-a756-e0953ee9410d@46.253.4.214:8080?type=tcp&security=none&encryption=none&host=box.ponisha.ir&headerType=http#https://t.me/YoutubeUnBlockRu
+vless://a09d2931-c961-4f4e-9288-eab639c5fc03@my.kiomars.shop:6664?type=tcp&security=reality&encryption=none&fp=chrome&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7&sni=play.google.com#https://t.me/YoutubeUnBlockRu
