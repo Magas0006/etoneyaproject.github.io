@@ -1,7 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@104.26.15.21:443?type=ws&security=tls&encryption=none&fp=chrome&sni=afrcloud22.mmv.kr&path=/118.91.78.76&host=afrcloud22.mmv.kr#https://t.me/YoutubeUnBlockRu
-vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=🔒#https://t.me/YoutubeUnBlockRu
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.2.51:2020?type=tcp&security=none&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XUVBEFyxevBwoGwVlo31vXMR_wQ0h0UnhzC4jCeakkc&sid=590bdc3b6dad&sni=www.cloudflare.com&spx=/#https://t.me/YoutubeUnBlockRu
 vless://c501c66b-c6c2-456b-b604-80393b83d67f@fi.appav.online:2083?type=grpc&encryption=none&sni=🔒&serviceName=UpdateService#https://t.me/YoutubeUnBlockRu
 vless://a44e0875-210f-4941-9062-89b6361a14c6@212.111.88.50:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&sni=apple.com#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2496,6 @@ vless://85bf8959-34aa-4b84-828f-ca891380b7ff@104.17.147.22:443?path=🔒#https:/
 vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-v1.wiki-mobile-one.com:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=u_H6cWw7ezdJJJqSJ1pzxWt3rLYv2k0X10jmQuJkURA&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.128.170:443?path=/#https://t.me/YoutubeUnBlockRu
 vless://694bc934-818f-4040-a30d-5642dec7495f@104.17.234.114:8443?type=grpc&serviceName=Telegram#https://t.me/YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.242.106.162:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&host=sni.111000.indevs.in#https://t.me/YoutubeUnBlockRu
+vless://67090d27-7ce1-46b2-dd2f-8bcbb26e9970@18.157.168.190:17880?type=tcp&security=&encryption=none#https://t.me/YoutubeUnBlockRu
+vless://62fdb478-21bd-4e64-92f8-625149df3124@WWW.SPEEDTEST.NET:2095?type=httpupgrade&path=🔒&host=GE.SODOGODPING.IR#https://t.me/YoutubeUnBlockRu
