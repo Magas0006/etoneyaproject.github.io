@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=🔒#https://t.me/YoutubeUnBlockRu
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.197.77:8880?type=ws&encryption=none&path=🔒&host=free.cfdns.online#https://t.me/YoutubeUnBlockRu
 vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@104.16.163.32:443?type=ws&security=tls&encryption=none&sni=🔒&host=ad1.xiqpanelz.com#https://t.me/YoutubeUnBlockRu
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@130.162.47.176:443?type=ws&encryption=none&path=🔒&host=lhxt.xiaomi.win#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.18.0.144:443?type=ws&security=t
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.230.66:443?type=tcp&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.174.138.251:8880?type=ws&encryption=none&path=🔒&host=cf.d3z.net#https://t.me/YoutubeUnBlockRu
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@jquery.com:443?type=ws&encryption=none&path=🔒&host=rAyAn-uS-1.MeDiCaLhIsToRy.iR#https://t.me/YoutubeUnBlockRu
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.79.186:443?path=🔒&mode=stream-one#https://t.me/YoutubeUnBlockRu
