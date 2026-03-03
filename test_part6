@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://18cba63d-7441-4ee3-bb18-72a0fc3f772e@185.86.144.9:2098?type=xhttp&security=none&encryption=none&path=/xhttp-in&mode=auto#https://t.me/YoutubeUnBlockRu
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=none&encryption=none&mode=gun&authority=#https://t.me/YoutubeUnBlockRu
 vless://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:8080?type=ws&security=none&encryption=none&path=🔒&host=11tg.w79kip11.workers.dev#https://t.me/YoutubeUnBlockRu
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.79.131:2096?type=ws&encryption=none&host=bitget1.asdasd.click#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://b658a9a6-f8f5-4a86-a438-f912a8509db2@5.255.114.61:2083?type=ws&security=
 vless://1451591f-16c6-4fb1-ac11-4867a4f50e72@161.35.202.165:55093?type=tcp&security=none&path=🔒#https://t.me/YoutubeUnBlockRu
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=🔒#https://t.me/YoutubeUnBlockRu
 vless://cf25f9d0-408f-1142-30aa-01ead41c420d@151.101.9.81:80?note=---Telegram---#https://t.me/YoutubeUnBlockRu
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@140.99.233.186:8880?sni=🔒#https://t.me/YoutubeUnBlockRu
