@@ -1320,7 +1320,6 @@ vless://2f466a3b-5093-4556-8759-c87c8511c753@104.18.32.47:443?type=ws&security=t
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@51.250.33.87:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=dZa2XW10LFCKNROY-o-ItQzBbGyatkYR9CWNUw3DzBU&sid=70005607870ddd35&sni=ads.x5.ru&serviceName=UpdateService#https://t.me/YoutubeUnBlockRu
 vless://d95e192e-1050-48ae-ae54-6fd8f6c389a3@45.136.128.184:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=08TPrmO6ClQQvBeWPVKuotkRZ_WKD6jL3aFeeRlVVVM&sni=🔒&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN#https://t.me/YoutubeUnBlockRu
 vless://000f318f-d045-4262-af1d-383c43443e8a@dll3maghz3.chooktashakorabi.com:41019?type=tcp&encryption=none#https://t.me/YoutubeUnBlockRu
-vless://bc0411d9-430b-4f26-b6e9-3803fa9bea10@87.121.82.108:443?type=grpc&security=reality&fp=chrome&pbk=EaRQAugh8pPPPPpJ45NoxcHRP7qwhzlp2bAUwCUuDCA&sid=c661ddc7be80dd89&sni=if.primarymaster.online&mode=gun&serviceName=&authority=#https://t.me/YoutubeUnBlockRu
 vless://bbea7a3a-f5c3-454c-ddbb-7063e26053f2@151.101.3.8:80?path=🔒&mode=auto#https://t.me/YoutubeUnBlockRu
 vless://88372542-431f-11ed-b878-0242ac120002@172.67.196.0:443?security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://ba65ddb2-a8cd-413b-980d-709b3a3cfca3@151.101.194.133:80?type=xhttp&path=🔒#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.42.110.142:2053?security=tls&enc
 vless://8af733bd-c094-4e99-add3-95f380cda5e7@Loadbalance.systemgamingirani.ir:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&sni=🔒&spx=/#https://t.me/YoutubeUnBlockRu
 vless://d1b2e6d7-02ad-431b-a5e4-745ea6ab4a4d@upload.ir:2095?type=ws&path=🔒#https://t.me/YoutubeUnBlockRu
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?type=tcp&security=none&encryption=none&host=zula.ir&headerType=http#https://t.me/YoutubeUnBlockRu
+vless://43ead7df-e2f3-4877-95c0-97e63c832d44@185.40.153.243:3443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=KsrjfNV8vXF6jfvf5wxjakhyRdp95BWmazLRBEjKj1w&sid=356971052a1bfc37&sni=yandex.ru&path=&host=#https://t.me/YoutubeUnBlockRu
