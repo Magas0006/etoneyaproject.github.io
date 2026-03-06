@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://4bfb09ac-32d0-4fdf-8a09-73167b44c0a3@hield.ru:3443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://3160087e-72a1-4f1e-b79a-7dabfd2539ba@104.21.10.218:8443?type=ws&encryption=none&path=🔒&host=mine.toysbrasherra.online#https://t.me/YoutubeUnBlockRu
 vless://1bbf3b87-5f9d-4358-8a40-3cf9ab653388@Zula.ir:8443?path=🔒&mode=auto#https://t.me/YoutubeUnBlockRu
 vless://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54400?type=ws&security=none&encryption=none#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=�
 vless://bc822f7c-e3c5-4db0-be7e-bcafdb08af5f@ip.abcdefiran.ir:2095?type=httpupgrade&security=none&path=/#https://t.me/YoutubeUnBlockRu
 vless://6253c48d-3148-41e4-808d-9e865bada02f@104.27.119.5:8880?path=/moein#https://t.me/YoutubeUnBlockRu
 vless://8afd939e-b1f5-4548-a047-af268e9dbdbb@okatamizonlineshopetamiiz.ivy-net.ir:2070?type=tcp&encryption=none&host=parsabr.com&headerType=http#https://t.me/YoutubeUnBlockRu
+vless://19de5ba4-82b2-4a11-898e-ae460d6733fe@real-z3.sdcards1.ir:8585?type=tcp&security=reality&encryption=none&fp=chrome&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sni=🔒#https://t.me/YoutubeUnBlockRu
