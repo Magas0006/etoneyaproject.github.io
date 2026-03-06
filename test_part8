@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.208.116:80?type=xhttp&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.16.76.55:80?type=ws&encryption=none&host=patient-shadow-baf1-ppal03.hohel98085.workers.dev#https://t.me/YoutubeUnBlockRu
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.7.193:2095?type=ws&encryption=none&path=🔒&host=0506tg.neeleomg.workers.dev#https://t.me/YoutubeUnBlockRu
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@104.17.148.186:443?type=xhttp&security=tls&encryption=none&fp=chrome&sni=api-ch.nping.ir&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&host=api-ch.nping.ir&mode=auto&alpn=h2#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://0c41105e-22b7-48e8-9f7f-81f1cd43c8ac@151.101.3.8:80?path=🔒&mode=auto#
 vless://9c9f7230-c8ff-44d2-93f2-a1febbc23767@ashcan.aurorainiceland.com:443?security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@159.246.55.254:8880?type=ws&encryption=none&path=🔒&host=yg.bantony199.top#https://t.me/YoutubeUnBlockRu
 vless://bf3fc737-dad0-4f02-bc1f-563cd347d79e@80.85.246.223:8443?type=tcp&security=reality&encryption=none&fp=qq&pbk=A5knH8crf72tOmPQzatYZ7WOxG5mqFTlfx5vePnTwWo&sid=fd29e3837b4d047f&sni=www.vk.com&spx=/#https://t.me/YoutubeUnBlockRu
+vless://4bfb09ac-32d0-4fdf-8a09-73167b44c0a3@hield.ru:3443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒#https://t.me/YoutubeUnBlockRu
