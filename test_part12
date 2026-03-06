@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?type=ws&security=tls&encryption=none&sni=afrcloud22.mmv.kr&path=/167.179.110.68&host=afrcloud22.mmv.kr#https://t.me/YoutubeUnBlockRu
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?type=grpc&security=&encryption=none&mode=gun#https://t.me/YoutubeUnBlockRu
 vless://38e1f5a3-bdf6-0008-9282-91fc8482dacb@213.219.214.41:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=ads.x5.ru&path=&host=#https://t.me/YoutubeUnBlockRu
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=🔒#https://t.me/YoutubeUnBlockRu
