@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&encryption=none&path=🔒&host=nginx.nscl.ir#https://t.me/YoutubeUnBlockRu
 vless://1e3e92fc-c406-4661-9347-79aa0865ed9b@s15.leader21.top:5054?type=ws&encryption=none&path=🔒&host=s15.leader21.top#https://t.me/YoutubeUnBlockRu
 vless://72090163-17a9-4200-893e-215786a48523@hk7.vlessx.xyz:8080?type=ws&security=&path=🔒#https://t.me/YoutubeUnBlockRu
 vless://20b0fff2-d44e-4198-9649-2194f4adfddf@104.17.26.182:2087?path=🔒#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?type=tcp&s
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.18.0.144:443?security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://72f14dc6-b3bf-4c26-b4ad-2724ced253e9@m8.shop99.top:90?type=tcp&security=tls&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://58e596b3-e7e6-43c5-9c03-b1e90db428a9@www.speedtest.net:80?type=ws&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&host=pamchall.com.#https://t.me/YoutubeUnBlockRu
+vless://d527c88b-5411-4fcc-92d2-3f3f50bbc92a@game-nl-01.cloudgames.games:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mQ0dsDWdpTlVzMGgeTj-FEzVUiDWDB7knhy2m5q8anI&sid=df12988285da93e4&sni=game-nl-01.cloudgames.games&path=&host=#https://t.me/YoutubeUnBlockRu
