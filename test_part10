@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://52fb63a8-8673-4159-a7ea-3d1b7fee46be@95.163.250.127:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=l81g0dM2V5_J50E1n62kDBJfpeOtiNDzMf9hjdMl5Qw&sid=160ba48dac78cfc0&sni=eh.vk.com#https://t.me/YoutubeUnBlockRu
 vless://1ee99a9e-2a7a-4b4f-aa09-c60997ae77f2@212.233.122.96:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WWLjmGIGGoASS70lNhnJIbc7tlZ-Tuv9pNrSj915438&sid=6d8fb3c010517eee&sni=max.ru&spx=/#https://t.me/YoutubeUnBlockRu
 vless://cbb2d3b3-9164-46cc-84f9-82722fbf1353@0n0w5jre3ro-p4vmk-dilf-3hcr9u9fc.talumy147.workers.dev:443?type=ws&security=tls&encryption=none&fp=chrome&sni=0n0W5JrE3RO-P4VmK-DILF-3HCr9U9fC.taLUmY147.WOrKErS.deV&path=/eyJqdW5rIjoiVXhYd0VacUYxaUEzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&host=0n0w5jre3ro-p4vmk-dilf-3hcr9u9fc.talumy147.workers.dev#https://t.me/YoutubeUnBlockRu
 vless://7bd7c473-64c9-4de6-8a4e-2886f3730551@77.233.215.117:8444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=zbEe13wpPOB1hRXYffAwJhsLxpr-Dhp9G420I4bSCSY&sid=25a71b35&sni=docscenter.su&path=&host=&spx=/#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://bc941b47-4346-411a-bef8-b327eca6f6f4@fi.aliusvpn.ru:8443?type=tcp&securi
 vless://Parsashonam-281@188.114.96.0:8080?type=ws&path=🔒#https://t.me/YoutubeUnBlockRu
 vless://15f34214-d8de-41e9-ba72-93daeafc59ef@172.64.155.209:2087?type=ws&encryption=none&path=🔒&host=subhiddify.mmdv2.host#https://t.me/YoutubeUnBlockRu
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?type=xhttp&security=&encryption=none&path=pabloping/%3FTELEGRAM-irmeliy&host=atus.pabloping.pro&mode=auto#https://t.me/YoutubeUnBlockRu
+vless://78163b85-0a24-407d-aa9c-72a63e6d9843@em-3.webnama.com.tr:1429?type=tcp&encryption=none&host=varzesh3.com&headerType=http#https://t.me/YoutubeUnBlockRu
