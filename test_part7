@@ -1,7 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-hysteria2://hysteria2_fastlane_7dce61ouq:BAjBldf03RXABDW6M27SdCXLOhQa03lH@150.241.79.106:1935/?sni=de2.h.fastlanehosting.ru#https://t.me/YoutubeUnBlockRu
-vless://53fa2131-611e-413f-8b1a-3aed45529a52@158.160.171.167:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=w8WltGLAGvOi6tsvnTQ80309byZo0Wo_Gs3fr8F6ixE&sid=331a54c7ab4b&sni=84.img.avito.st&allowinsecure=0#https://t.me/YoutubeUnBlockRu
-vless://75ae068c-f1b2-46d6-ab07-4a63452f5aee@forward3.maryam1700.com:2095?type=ws&security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?type=xhttp&security=&encryption=none&path=pabloping&host=nlbv1.pabloping.pro&mode=auto#https://t.me/YoutubeUnBlockRu
 vless://08b0b693-e8d4-424e-b5b6-3f898c7aae4c@178.154.202.149:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&sni=ads.x5.ru&spx=/#https://t.me/YoutubeUnBlockRu
 vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sni=msn.com#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2496,6 @@ vless://b7dd5972-263a-4331-8ee5-c747e773b434@51.250.83.255:443?type=tcp&security
 vless://bf77f272-4220-4655-ab76-5ccdf0d2a60f@tun.proxy1.raketa-balance.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&sni=eh.vk.com&allowinsecure=0#https://t.me/YoutubeUnBlockRu
 vless://d81a5ac7-b2b9-4445-a364-1c6233ac686f@www.speedtest.net:80?type=ws&path=🔒#https://t.me/YoutubeUnBlockRu
 vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@217.16.26.35:8090?type=ws&security=tls&fp=qq&sni=rukr.speedload.ru&path=/ws&host=rukr.speedload.ru&alpn=h2%2Chttp/1.1#https://t.me/YoutubeUnBlockRu
+vless://10a4c929-0643-07d0-9b89-0b823adaa2a8@109.120.191.66:52006?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#https://t.me/YoutubeUnBlockRu
+vless://a44e0875-210f-4941-9062-89b6361a14c6@212.34.130.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&sni=apple.com#https://t.me/YoutubeUnBlockRu
+vless://4828769a-7b96-4373-b4c8-9674ab305786@95.163.209.12:5443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=k3lAOoQAumS4F54tduegDsD-41rcPzO6eG37Xfx73lo&sid=056c9ec72102a5e9&sni=ads.x5.ru&path=&host=&spx=/#https://t.me/YoutubeUnBlockRu
