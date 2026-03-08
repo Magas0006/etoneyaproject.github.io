@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://5a17e575-61c9-4468-a9fb-192bee5906bc@51.250.117.173:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=ef9Xx816A-obDKokFDIV5acO4E8A23MErXdh5ki4wj4&sid=63d703b12f253ffb&sni=ads.x5.ru&path=&host=#https://t.me/YoutubeUnBlockRu
 vless://Telegram-SRCVPN-@91.107.129.66:3080?security=reality&encryption=none&mode=gun&authority=-#https://t.me/YoutubeUnBlockRu
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.149.135.158:2096?type=ws&security=tls&encryption=none&sni=sni.111000.de5.net&host=sni.111000.de5.net#https://t.me/YoutubeUnBlockRu
 vless://6bc98441-e1e0-4304-8174-a41a91e0cc11@84.201.145.148:5443?type=xhttp&security=reality&encryption=none&path=/xhttp&mode=stream-up&extra={"host"#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://5d4e7f4f-dd35-4a4e-9121-813377ec79f9@193.228.168.106:11011?type=tcp&secu
 vless://c501c66b-c6c2-456b-b604-80393b83d67f@vkcbaza.appav.online:7443?type=grpc&security=reality&encryption=none&fp=qq&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1&sni=5post-gate.x5.ru&mode=gun&serviceName=UpdateService&authority=#https://t.me/YoutubeUnBlockRu
 vless://70983c95-9c61-49f6-90b0-bc6da73520eb@wa.us.srv.oplcdn.link:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ign.dev&name=TG#https://t.me/YoutubeUnBlockRu
 vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?type=tcp&security=reality&encryption=none&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sni=🔒#https://t.me/YoutubeUnBlockRu
+vless://e1df1966-4d5e-43ec-b2da-bb935a258351@51.250.27.132:4249?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ggIR4bVSlStYnXMClNFeB0Uejk-zw8HQzjAA0j8F7Dc&sid=a20d3ed244c76426&sni=sso.passport.yandex.ru#https://t.me/YoutubeUnBlockRu
