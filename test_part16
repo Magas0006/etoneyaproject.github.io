@@ -1,5 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-trojan://0tBPkLdjsKawrM6c-1bf4vFJ36ZNNBSE@kz1.nn-id.com:443?security=tls&type=tcp&path=&host=&sni=kz1.nn-id.com&fp=&alpn=h2%2Chttp/1.1#https://t.me/YoutubeUnBlockRu
 vless://c67f81df-34e8-4cb3-ab43-599585775fa9@5.188.115.11:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&sni=api-maps.yandex.ru&path=&host=&spx=/#https://t.me/YoutubeUnBlockRu
 vless://e24fcc0e-b819-4df0-bb64-b997660e208f@217.16.22.229:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=4hEoG3Na36lO7kgjvWKPVKO0ndIeuAnNLzbiExsjbxk&sid=afee1a48fd42a87b&sni=vkvideo.ru#https://t.me/YoutubeUnBlockRu
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.148.22:443?type=ws&security=tls&encryption=none&sni=afrcloud22.mmv.kr&path=/66.42.51.60%3D8443&host=afrcloud22.mmv.kr#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://b8dd4a70-7ef8-49d7-8b32-40c0cb707abf@89.208.221.73:5443?type=tcp&securit
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?path=🔒#https://t.me/YoutubeUnBlockRu
 vless://a9964b0e-a18f-48c9-bcd1-8f34b5092879@webshecan.webredirect.org:2083?type=tcp&security=reality&fp=chrome&pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&sni=🔒#https://t.me/YoutubeUnBlockRu
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?type=ws&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net#https://t.me/YoutubeUnBlockRu
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.131.209.177:8880?sni=🔒#https://t.me/YoutubeUnBlockRu
