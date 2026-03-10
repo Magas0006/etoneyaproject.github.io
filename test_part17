@@ -1,11 +1,4 @@
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.253:443?type=grpc&security=tls&encryption=none&sni=🔒#https://t.me/YoutubeUnBlockRu
-vless://54e5a989-5938-43ce-ba58-026ddbfd4d7b@45.141.234.159:30724?type=tcp&security=reality&fp=chrome&pbk=KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A&sid=eab8ab08e4d6faa0&sni=yandex.ru#https://t.me/YoutubeUnBlockRu
-vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?type=ws&security=none&encryption=none&host=wild-glade-236b-ppal03.xawego3471.workers.dev#https://t.me/YoutubeUnBlockRu
-vless://18cba63d-7441-4ee3-bb18-72a0fc3f772e@212.233.78.21:2089?type=xhttp&security=&path=/xhttp-usa&host=&mode=auto#https://t.me/YoutubeUnBlockRu
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@62.72.166.177:8880?type=ws&encryption=none&path=🔒&host=ip.langmanshanxi.top#https://t.me/YoutubeUnBlockRu
-vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?type=ws&security=none&note=#https://t.me/YoutubeUnBlockRu
-vless://025056d1-5f58-4f3b-bd00-e9d5f8c6bb04@144.31.203.95:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=lINAlNmAijh_Y__EFkECy2bxSHbAXzOT3mgSuY8EcjQ&sid=756a959565045edd&sni=github.com#https://t.me/YoutubeUnBlockRu
 vless://64aafe63-ef36-4da5-8bf9-838d767bfe74@51.250.87.167:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687&sni=api-maps.yandex.ru&spx=/#https://t.me/YoutubeUnBlockRu
 vless://64ec96eb-1551-4d97-a098-15ad98b3c949@fr01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&sni=hls-svod.itunes.apple.com&name=TG#https://t.me/YoutubeUnBlockRu
 vless://79a48cba-4a44-4a5c-bfa9-64a53379df2c@146.19.191.134:350?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56&sni=excoino.com#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2492,10 @@ vless://ba55ef37-c33c-4a8f-aafa-2abc85312863@14.37.103.127:10084?type=ws&securit
 vless://38388282@jdjdjdjsjdje:443?type=tcp&security=none&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@47.76.27.185:443?type=ws&security=tls&encryption=none&sni=n1761184282.74qxv.top&path=/824dc1b1-e35b-4121-ad73-9acaf13d6410&host=n1761184282.74qxv.top#https://t.me/YoutubeUnBlockRu
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.147.136:22224?type=ws&security=tls&sni=trojan.burgerip.co.uk&path=/telegram-channel-vlessconfig#https://t.me/YoutubeUnBlockRu
+vless://cba0f4a6-4c8b-4214-bfed-28cf59921df5@85.133.228.75:8881?type=tcp&security=none&host=varzesh3.com&headerType=http#https://t.me/YoutubeUnBlockRu
+vless://f13b15a6-d235-4161-b57a-274676335502@my01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&sni=hls-svod.itunes.apple.com&name=TG#https://t.me/YoutubeUnBlockRu
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.2.96:22224?type=ws&security=tls&encryption=none&sni=trojan.burgerip.co.uk&path=/telegram-channel-vlessconfig#https://t.me/YoutubeUnBlockRu
+vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?type=grpc&security=tls&encryption=none&fp=chrome&sni=🔒&mode=gun&alpn=h2&serviceName=grpc&authority=#https://t.me/YoutubeUnBlockRu
+vless://f0f4eabc-2747-4656-99b5-81ab6d32a8ab@172.67.37.209:443?path=🔒&host=hct2.jensenk.cf&alpn=http/1.1&headerType=ws#https://t.me/YoutubeUnBlockRu
+vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@176.108.242.76:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=3f200574d011010f&sni=www.vkvideo.ru#https://t.me/YoutubeUnBlockRu
+vless://4c0374b7-9414-4d0f-a4f1-b837061a1693@144.31.100.120:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=3d3c3fc7e9&sni=www.google.com#https://t.me/YoutubeUnBlockRu
