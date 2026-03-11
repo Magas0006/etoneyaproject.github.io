@@ -2457,7 +2457,6 @@ vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443?type=ws&encrypti
 vless://6a2d7031-e362-42c6-ab4f-9848c83012f2@5.188.140.3:8718?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OOqB9mFan3ucg0FLHOdmgNgh7jdIc1wAy6AuU5dehxU&sni=receive-sentry.lmru.tech#https://t.me/YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:803?#https://t.me/YoutubeUnBlockRu
 vless://dc01db14-47ea-4354-a7fb-87fd6559ac5e@edge-tr01.onvanet.com:8164?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=v3qSUlegZwTvEziNnU2_g7-crFM4UjARJ0chqTRJ-UY&sid=992b2ba067fe6a4b&sni=play.google.com&alpn=h2,http/1.1#https://t.me/YoutubeUnBlockRu
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?host=ubu.okaoclax.me&path=/trojan-ws&type=ws#https://t.me/YoutubeUnBlockRu
 vless://2a75b239-5e69-46f6-8e72-3fa827550f99@server2.goodbyevpn.pro:443?type=grpc&security=reality&encryption=none&pbk=kQ0uWU7NNCJeZDGhwP9ImpxmvDFTfpI0FxL7YlvYKRs&sid=4d41c87ece928d75&sni=max.ru&mode=multi&serviceName=grpc&authority=#https://t.me/YoutubeUnBlockRu
 vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@217.16.27.217:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=7426b0c03ef009dc&sni=ozon.ru&spx=/#https://t.me/YoutubeUnBlockRu
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?type=tcp&security=none&path=&host=/---V2RRVIP&headerType=http#https://t.me/YoutubeUnBlockRu
@@ -2499,3 +2498,4 @@ vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.68.90:443?type=tcp&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUFpXeTlRMlhTMXRRU3FSUDNoN0FGQzVGYmt3UXhtcA==@198.38.86.30:1234?#https://t.me/YoutubeUnBlockRu
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?type=ws&security=none&encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev#https://t.me/YoutubeUnBlockRu
 vless://c67f81df-34e8-4cb3-ab43-599585775fa9@144.31.129.6:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=28de1c8633d681dd&sni=fby.subv.ru&spx=/#https://t.me/YoutubeUnBlockRu
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?path=🔒#https://t.me/YoutubeUnBlockRu
