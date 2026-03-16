@@ -903,83 +903,90 @@
 
   <script>
     const subCategories = [
-      {
-        title: "ТОЛЬКО БЕЛЫЕ СПИСКИ",
-        icon: "shield-check",
-        links: [
-          { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/whitelist" },
-          { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/whitelist" },
-          { label: "Зеркало №2 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist" },
-          { label: "Зеркало №3 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/whitelist" },
-          { label: "Зеркало №4 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/whitelist&lang=en-ru" },
-          { label: "Зеркало №5 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/whitelist" }
-        ]
-      },
-      {
-        title: "РАБОТАЕТ ГЕМИНИ",
-        icon: "bot",
-        links: [
-          { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/gemini" },
-          { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/gemini" },
-          { label: "Зеркало №2 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/gemini" },
-          { label: "Зеркало №3 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/gemini" },
-          { label: "Зеркало №4 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/gemini&lang=en-ru" },
-          { label: "Зеркало №5 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/gemini" }
-        ]
-      },
-      {
-        title: "РАБОТАЕТ ЮТУБ",
-        icon: "youtube",
-        links: [
-          { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/youtube" },
-          { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/youtube" },
-          { label: "Зеркало №2 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/youtube" },
-          { label: "Зеркало №3 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/youtube" },
-          { label: "Зеркало №4 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/youtube&lang=en-ru" },
-          { label: "Зеркало №5 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/youtube" }
-        ]
-      },
-      {
-        title: "РАБОТАЕТ ЮТУБ МУЗЫКА",
-        icon: "music",
-        links: [
-          { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/ytm" },
-          { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/ytm" },
-          { label: "Зеркало №2 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/ytm" },
-          { label: "Зеркало №3 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/ytm" },
-          { label: "Зеркало №4 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/ytm&lang=en-ru" },
-          { label: "Зеркало №5 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/ytm" }
-        ]
-      },
-      {
-        title: "ДРУГИЕ",
-        icon: "globe",
-        links: [
-          { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/other" },
-          { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/other" },
-          { label: "Зеркало №2 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/other" },
-          { label: "Зеркало №3 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/other" },
-          { label: "Зеркало №4 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/other&lang=en-ru" },
-          { label: "Зеркало №5 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/other" }
-        ]
-      },
-      {
-        title: "ВСЕ ВМЕСТЕ",
-        icon: "layers",
-        links: [
-          { label: "Основа №1 [a9fm.site]", url: "https://etoneya.a9fm.site/1" },
-          { label: "Основа №2 [a9fm.site]", url: "https://etoneya.a9fm.site/2" },
-          { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/1" },
-          { label: "Зеркало №2 [alley.serv00]", url: "https://alley.serv00.net/2" },
-          { label: "Зеркало №3 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1" },
-          { label: "Зеркало №4 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2" },
-          { label: "Зеркало №5 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/1" },
-          { label: "Зеркало №6 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/1&lang=en-ru" },
-          { label: "Зеркало №7 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/1" },
-          { label: "Зеркало №8 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/2" }
-        ]
-      }
-    ];
+  {
+    title: "ТОЛЬКО БЕЛЫЕ СПИСКИ",
+    icon: "shield-check",
+    links: [
+      { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/whitelist" },
+      { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/whitelist" },
+      { label: "Зеркало №2 [kangel.tech]", url: "https://internet-tenshi.kangel.tech/whitelist" },
+      { label: "Зеркало №3 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist" },
+      { label: "Зеркало №4 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/whitelist" },
+      { label: "Зеркало №5 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/whitelist&lang=en-ru" },
+      { label: "Зеркало №6 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/whitelist" }
+    ]
+  },
+  {
+    title: "РАБОТАЕТ ГЕМИНИ",
+    icon: "bot",
+    links: [
+      { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/gemini" },
+      { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/gemini" },
+      { label: "Зеркало №2 [kangel.tech]", url: "https://internet-tenshi.kangel.tech/gemini" },
+      { label: "Зеркало №3 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/gemini" },
+      { label: "Зеркало №4 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/gemini" },
+      { label: "Зеркало №5 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/gemini&lang=en-ru" },
+      { label: "Зеркало №6 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/gemini" }
+    ]
+  },
+  {
+    title: "РАБОТАЕТ ЮТУБ",
+    icon: "youtube",
+    links: [
+      { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/youtube" },
+      { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/youtube" },
+      { label: "Зеркало №2 [kangel.tech]", url: "https://internet-tenshi.kangel.tech/youtube" },
+      { label: "Зеркало №3 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/youtube" },
+      { label: "Зеркало №4 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/youtube" },
+      { label: "Зеркало №5 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/youtube&lang=en-ru" },
+      { label: "Зеркало №6 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/youtube" }
+    ]
+  },
+  {
+    title: "РАБОТАЕТ ЮТУБ МУЗЫКА",
+    icon: "music",
+    links: [
+      { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/ytm" },
+      { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/ytm" },
+      { label: "Зеркало №2 [kangel.tech]", url: "https://internet-tenshi.kangel.tech/ytm" },
+      { label: "Зеркало №3 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/ytm" },
+      { label: "Зеркало №4 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/ytm" },
+      { label: "Зеркало №5 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/ytm&lang=en-ru" },
+      { label: "Зеркало №6 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/ytm" }
+    ]
+  },
+  {
+    title: "ДРУГИЕ",
+    icon: "globe",
+    links: [
+      { label: "Основа [a9fm.site]", url: "https://etoneya.a9fm.site/other" },
+      { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/other" },
+      { label: "Зеркало №2 [kangel.tech]", url: "https://internet-tenshi.kangel.tech/other" },
+      { label: "Зеркало №3 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/other" },
+      { label: "Зеркало №4 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/other" },
+      { label: "Зеркало №5 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/other&lang=en-ru" },
+      { label: "Зеркало №6 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/other" }
+    ]
+  },
+  {
+    title: "ВСЕ ВМЕСТЕ",
+    icon: "layers",
+    links: [
+      { label: "Основа №1 [a9fm.site]", url: "https://etoneya.a9fm.site/1" },
+      { label: "Основа №2 [a9fm.site]", url: "https://etoneya.a9fm.site/2" },
+      { label: "Зеркало №1 [alley.serv00]", url: "https://alley.serv00.net/1" },
+      { label: "Зеркало №2 [alley.serv00]", url: "https://alley.serv00.net/2" },
+      { label: "Зеркало №3 [kangel.tech]", url: "https://internet-tenshi.kangel.tech/1" },
+      { label: "Зеркало №4 [kangel.tech]", url: "https://internet-tenshi.kangel.tech/2" },
+      { label: "Зеркало №5 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1" },
+      { label: "Зеркало №6 [github]", url: "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2" },
+      { label: "Зеркало №7 [jsdelivr]", url: "https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/1" },
+      { label: "Зеркало №8 [yandex]", url: "https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/1&lang=en-ru" },
+      { label: "Зеркало №9 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/1" },
+      { label: "Зеркало №10 [gitverse]", url: "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/2" }
+    ]
+  }
+];
     const gridContainer = document.getElementById('keysGrid');
     let html = '';
 
